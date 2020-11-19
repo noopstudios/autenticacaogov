@@ -5,7 +5,7 @@
     "require": {
         "php": "^7.2.5",
         "ext-json": "^7.4",
-        "guzzlehttp/guzzle": "6.3",
+        "guzzlehttp/guzzle": "^6.3",
         "ext-simplexml": "^7.4",
         "illuminate/support": "7.0",
         "nesbot/carbon": "2.41.5",

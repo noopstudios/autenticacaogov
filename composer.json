@@ -1,5 +1,5 @@
 {
-    "name": "noop/autenticacaogov",
+    "name": "noopstudios/autenticacaogov",
     "description": "Package used to allow laravel website to communicate with AutenticacaoGov with OAUTH2.0 protocolo (implicit flow)",
     "type": "project",
     "require": {
@@ -28,7 +28,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "No Operation",
+            "name": "Noop",
             "email": "dev@noop.pt"
         }
     ],

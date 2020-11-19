@@ -1,0 +1,36 @@
+{
+    "name": "noop/autenticacaogov",
+    "description": "Package used to allow laravel website to communicate with AutenticacaoGov with OAUTH2.0 protocolo (implicit flow)",
+    "type": "project",
+    "require": {
+        "php": "^7.2.5",
+        "ext-json": "^7.4",
+        "guzzlehttp/guzzle": "^7.2",
+        "ext-simplexml": "^7.4",
+        "illuminate/support": "7.0",
+        "nesbot/carbon": "2.41.5",
+        "illuminate/http": "7.0",
+        "laravel/socialite": "5.1.0",
+        "socialiteproviders/manager": "4.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Noop\\AutenticacaoGov\\" : "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Noop\\AutenticacaoGov\\AutenticacaoGovProvider"
+            ]
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Noop",
+            "email": "dev@noop.pt"
+        }
+    ],
+    "minimum-stability": "dev"
+}

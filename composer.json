@@ -14,7 +14,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Noop\\AutenticacaoGov\\AutenticacaoGovProvider"
+                "Noop\\AutenticacaoGov\\AutenticacaoGovServiceProvider"
             ]
         }
     },

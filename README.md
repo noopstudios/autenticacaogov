@@ -9,9 +9,9 @@
 
 ## Usage
 
-### Prepare in Autenticao.Gov Developer Portal
+### Autenticao.Gov Developer Portal
 
-
+Request CLIENT_ID and CLIENT_SECRET at https://www.autenticacao.gov.pt/
 
 ### Install
 

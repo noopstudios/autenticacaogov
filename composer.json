@@ -3,7 +3,7 @@
     "description": "Package used to allow laravel website to communicate with AutenticacaoGov with OAUTH2.0 protocolo (implicit flow)",
     "type": "project",
     "require": {
-        "php": "^7.2.5",
+        "php": "^7.2.5|^8.0",
         "laravel/socialite": "^5.1.0"
     },
     "autoload": {

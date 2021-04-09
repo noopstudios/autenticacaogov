@@ -4,7 +4,7 @@
 
 ## Requirements
 
-* PHP >= 7.2.5 | 
+* PHP >= 7.2.5 | ^8.0
 * Laravel/Socialite >= 5.1.0
 
 ## Usage
